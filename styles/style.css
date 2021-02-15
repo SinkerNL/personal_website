@@ -85,3 +85,9 @@ margin: 16px 0;
   background-color: #4CAF50;
   color: white;
 }
+
+canvas {
+  background: #eee;
+  display: block;
+  margin: 0 auto;
+}
